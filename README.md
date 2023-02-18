@@ -4,7 +4,7 @@ Hi 👋 My name is Raphaël
 Web developer and designer
 --------------------------
 
-I've been self-teaching code for a few years as a hobby and I'm currently a student at 42Lausanne since 2021.
+I've been learning code by myself on the web for a few years as a hobby and I'm currently a student at 42Lausanne since 2021.
 
 * 🌍  I'm based in Lausanne, Switzerland
 * ✉️  You can contact me at [rricol@proton.me](mailto:rricol@proton.me)
