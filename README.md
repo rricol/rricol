@@ -8,7 +8,7 @@ Finished common core at 42Lausanne. Founder at numera. Exploring ideas.
 
 * 🌍  I'm based in Lausanne, Switzerland
 * ✉️  You can contact me at [rricol@proton.me](mailto:rricol@proton.me)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C++, ASM, Vuejs, Nestjs and more
 
 ### Skills
 
